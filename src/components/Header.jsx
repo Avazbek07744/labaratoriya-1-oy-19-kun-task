@@ -12,7 +12,7 @@ const Header = () => {
                 </p>
             </div>
             <h1 className='text-3xl font-bold text-center'>Республика Ассессмент маркази <br /> онлайн платформаси</h1>
-            <img src={img2} height={86} alt="" />
+            <img className='cursor-pointer' src={img2} height={86} alt="" />
         </div>
     )
 }
